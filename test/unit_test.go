@@ -1,7 +1,7 @@
 package test
 
 import (
-	"github.com/XayahSuSuSu/geographiclib-go"
+	"github.com/XayahSuSuSu/geographiclib-go/geographiclib"
 	"testing"
 )
 
