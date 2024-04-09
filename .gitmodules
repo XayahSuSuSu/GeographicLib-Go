@@ -1,0 +1,3 @@
+[submodule "cgo/external/geographiclib"]
+	path = cgo/external/geographiclib
+	url = https://github.com/geographiclib/geographiclib
