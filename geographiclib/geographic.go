@@ -2,7 +2,7 @@ package geographiclib
 
 /*
 #cgo CFLAGS: -I${SRCDIR}/include
-#cgo LDFLAGS: -L${SRCDIR}/lib -lgeowrapper
+#cgo LDFLAGS: -lgeowrapper
 #include "../include/wrapper.h"
 */
 import "C"
