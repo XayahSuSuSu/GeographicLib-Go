@@ -4,6 +4,9 @@ project(geowrapper CXX C)
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_C_STANDARD 17)
 
+set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -fPIC")
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -fPIC")
+
 option(BUILD_SHARED_LIBS OFF)
 option(BUILD_BOTH_LIBS OFF)
 add_subdirectory(external/geographiclib)
