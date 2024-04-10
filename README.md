@@ -10,7 +10,7 @@
 ## Installation and usage
 1. Install
 ```
-go get XayahSuSuSu/geographiclib-go
+go get github.com/XayahSuSuSu/geographiclib-go
 ```
 
 2. Download **library** from [Releases](https://github.com/XayahSuSuSu/geographiclib-go/releases/latest)
